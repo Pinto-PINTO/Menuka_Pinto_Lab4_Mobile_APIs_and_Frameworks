@@ -8,7 +8,7 @@
 
 ## Project Overview
 
-This project, named ISS Tracker, is part of Module 24W Mobile APIs and Frameworks - 01, under the guidance of Lecturer Shivali Dhaka. The primary goal of the ISS Tracker is to provide real-time tracking of the International Space Station (ISS) by capturing its exact longitude and latitude and displaying this data on a map using the Leaflet.js library.
+The goal of the ISS Tracker is to provide real-time tracking of the International Space Station (ISS) by capturing its exact longitude and latitude and displaying this data on a map using the Leaflet.js library.
 
 ## Leaflet.js Library
 
