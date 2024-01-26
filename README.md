@@ -2,11 +2,12 @@
 
 ## Module: 24W Mobile APIs and Frameworks - 01
 
-### Lecturer: Shivali Dhaka
 
 ### Group: Group Set 4 - New Group 2
 
 ### Name: Andara Pintuge Menuka Shewon Aquinas Pinto
+
+
 
 
 ## Project Overview
